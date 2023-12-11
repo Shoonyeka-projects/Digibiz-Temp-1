@@ -1,0 +1,26 @@
+
+{
+  "services": [
+    {
+      "title": "WEB DESIGN",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+
+      "title_meta": "10",
+      "content_meta": "136"
+    },
+    {
+      "title": "PRINT DESIGN",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+
+      "title_meta": "12",
+      "content_meta": "136"
+    },
+    {
+      "title": "PHOTOGRAPHY",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+
+      "title_meta": "11",
+      "content_meta": "136"
+    }
+  ]
+}

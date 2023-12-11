@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "title": "Our Clients Are Our First Priority",
+      "subtitle": "WELCOME TO BINO",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "button_1_Text": "GET STARTED NOW",
+      "button_1_Link": "/get-started",
+      "button_2_Text": "LEARN MORE",
+      "button_2_Link": "/learn-more",
+
+      "title_meta": "34",
+      "subtitle_meta": "15",
+      "content_meta": "245",
+      "button_1_Text_meta": "15",
+      "button_2_Text_meta": "10"
+    },
+    {
+      "title": "Our Clients Are Our First Priority 1",
+      "subtitle": "WELCOME TO BINO",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "button_1_Text": "GET STARTED NOW 1",
+      "button_1_Link": "/get-started",
+      "button_2_Text": "LEARN MORE 1",
+      "button_2_Link": "/learn-more",
+      
+      "title_meta": "34",
+      "subtitle_meta": "15",
+      "content_meta": "245",
+      "button_1_Text_meta": "17",
+      "button_2_Text_meta": "12"
+    }
+  ]
+}

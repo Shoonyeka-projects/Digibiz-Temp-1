@@ -1,0 +1,66 @@
+
+{
+  "works": [
+    {
+      "imageSrc": "assets/images/pf1.jpg",
+      "category": ["web", "video"],
+      "title": "T-SHIRT DESIGN",
+      "tags": ["art", "t-shirt"],
+
+      "category_meta": ["3", "5"],
+      "title_meta": "14",
+      "tags_meta": ["3", "7"]
+    },
+    {
+      "imageSrc": "assets/images/pf2.jpg",
+      "category": ["bcards", "photo"],
+      "title": "T-SHIRT DESIGN ",
+      "tags": ["art", "t-shirt"],
+
+      "category_meta": ["6", "5"],
+      "title_meta": "14",
+      "tags_meta": ["3", "7"]
+    },
+    {
+      "imageSrc": "assets/images/pf3.jpg",
+      "category": ["web", "video"],
+      "title": "T-SHIRT DESIGN 1",
+      "tags": ["art", "t-shirt"],
+
+      "category_meta": ["3", "5"],
+      "title_meta": "14",
+      "tags_meta": ["3", "7"]
+    },
+    {
+      "imageSrc": "assets/images/pf4.jpg",
+      "category": ["bcards", "photo"],
+      "title": "T-SHIRT DESIGN 1",
+      "tags": ["art", "t-shirt"],
+
+      
+      "category_meta": ["6", "5"],
+      "title_meta": "14",
+      "tags_meta": ["3", "t-7"]
+    },
+    {
+      "imageSrc": "assets/images/pf1.jpg",
+      "category": ["web", "video"],
+      "title": "T-SHIRT DESIGN 2",
+      "tags": ["art", "t-shirt"],
+
+      "category_meta": ["3", "5"],
+      "title_meta": "14",
+      "tags_meta": ["3", "7"]
+    },
+    {
+      "imageSrc": "assets/images/pf2.jpg",
+      "category": ["bcards", "photo"],
+      "title": "T-SHIRT DESIGN 2",
+      "tags": ["art", "t-shirt"],
+      
+      "category_meta": ["6", "5"],
+      "title_meta": "14",
+      "tags_meta": ["3", "t-7"]
+    }
+  ]
+}

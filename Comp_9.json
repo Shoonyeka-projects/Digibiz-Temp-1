@@ -1,0 +1,50 @@
+{
+  "title": "OUR TEAM",
+  "subtitle": "Meet the craziest team. Share your thoughts with them.",
+
+  "title_meta": "8",
+  "subtitle_meta": "54",
+
+  "teamMembers": [
+    {
+      "name": "Semf Ucuk",
+      "role": "Founder",
+      "image": "assets/images/team1.jpg",
+
+      "name_meta": "9",
+      "role_meta": "7"
+    },
+    {
+      "name": "Kazi Erfan",
+      "role": "Engineering",
+      "image": "assets/images/team2.jpg",
+
+      "name_meta": "10",
+      "role_meta": "11"
+    },
+    {
+      "name": "Jeng Koli",
+      "role": "Designer",
+      "image": "assets/images/team3.jpg",
+
+      "name_meta": "9",
+      "role_meta": "8"
+    },
+    {
+      "name": "Pet Romak",
+      "role": "Marketing",
+      "image": "assets/images/team4.jpg",
+
+      "name_meta": "9",
+      "role_meta": "9"
+    },
+    {
+      "name": "Chet Pok",
+      "role": "Web Developer",
+      "image": "assets/images/test2.jpg",
+
+      "name_meta": "8",
+      "role_meta": "13"
+    }
+  ]
+}

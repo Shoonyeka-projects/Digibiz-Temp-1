@@ -1,0 +1,24 @@
+{
+  "counters": [
+    {
+      "icon": "icon-thumbs-up",
+      "count": 3891,
+      "label": "User Favourites"
+    },
+    {
+      "icon": "icon-business-3",
+      "count": 281,
+      "label": "Posts Last 24 Hours"
+    },
+    {
+      "icon": "icon-people-32",
+      "count": 618,
+      "label": "Total Posts"
+    },
+    {
+      "icon": "icon-cup",
+      "count": 178,
+      "label": "Amazing Features"
+    }
+  ]
+}

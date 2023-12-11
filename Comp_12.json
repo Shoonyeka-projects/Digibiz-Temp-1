@@ -1,0 +1,39 @@
+
+{
+  "title": "KEEP IN TOUCH",
+  "subtitle": "Nullam sit amet odio eu est aliquet euismod a a urna. Proin eu urna suscipit, dictum quam nec.",
+
+  "title_meta": "13",
+  "subtitle_meta": "34",
+  
+  "contactInfo": [
+    {
+      "type": "address",
+      "text": "House #13, Street road, Sydney 2310 Australia",
+
+      "type_meta": "7",
+      "text_meta": "45"
+    },
+    {
+      "type": "phone",
+      "text": "+880 168 109 1425",
+
+      "type_meta": "5",
+      "text_meta": "17"
+    },
+    {
+      "type": "phone",
+      "text": "+0216809142",
+
+      "type_meta": "5",
+      "text_meta": "10"
+    },
+    {
+      "type": "email",
+      "text": "contactus@email.com",
+
+      "type_meta": "5"
+     
+    }
+  ]
+}

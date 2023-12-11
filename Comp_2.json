@@ -1,0 +1,41 @@
+
+{
+  "features": [
+    {
+      "icon": "fa-clone",
+      "title": "SLEEK DESIGN",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.",
+    
+      "icon_meta": "8",
+      "title_meta": "12",
+      "content_meta": "104"
+    },
+    {
+      "icon": "fa-heart-o",
+      "title": "CLEAN CODE",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.",
+    
+      "icon_meta": "10",
+      "title_meta": "10",
+      "content_meta": "104"
+    },
+    {
+      "icon": "fa-lightbulb-o",
+      "title": "CREATIVE IDEAS",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.",
+
+      "icon_meta": "14",
+      "title_meta": "14",
+      "content_meta": "104"
+    },
+    {
+      "icon": "fa-comments-o",
+      "title": "FREE SUPPORT",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.",
+
+      "icon_meta": "13",
+      "title_meta": "12",
+      "content_meta": "104"
+    }
+  ]
+}

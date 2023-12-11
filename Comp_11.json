@@ -1,0 +1,55 @@
+
+{
+  "title": "OUR BLOG",
+  "subtitle": "Suspendisse sed eros mollis, tincidunt felis eget, interdum eratullam sit amet odio.",
+
+  "title_meta": "8",
+  "subtitle_meta": "84",
+
+  "blogs": [
+    {
+      "category": "art/t-shirt",
+      "title": "T-SHIRT DESIGN",
+      "image": "assets/images/blog1.jpg",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "readMoreLink": "#",
+
+      "category_meta": "11",
+      "title_meta": "14",
+      "content_meta": "240"
+    },
+    {
+      "category": "art/t-shirt",
+      "title": "T-SHIRT DESIGN1",
+      "image": "assets/images/blog2.jpg",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "readMoreLink": "#",
+
+      "category_meta": "11",
+      "title_meta": "15",
+      "content_meta": "240"
+    },
+    {
+      "category": "art/t-shirt",
+      "title": "T-SHIRT DESIGN2",
+      "image": "assets/images/blog3.jpg",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "readMoreLink": "#",
+
+      "category_meta": "11",
+      "title_meta": "15",
+      "content_meta": "240"
+    },
+    {
+      "category": "art/t-shirt",
+      "title": "T-SHIRT DESIGN3",
+      "image": "assets/images/blog4.jpg",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "readMoreLink": "#",
+
+      "category_meta": "11",
+      "title_meta": "15",
+      "content_meta": "240"
+    }
+  ]
+}

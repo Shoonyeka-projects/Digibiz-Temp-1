@@ -1,0 +1,81 @@
+
+{
+
+  "pricingSection": {
+    "title": "OUR PRICING",
+    "subtitle": "A 30-day free trial for all. A brief story about how this process works, keep an eye until the end."
+  },
+  "buttonText": "CHOOSE PLAN",
+
+  "pricingSection_meta": {
+    "title_meta": "11",
+    "subtitle_meta": "99"
+  },
+  "buttonText_meta": "11",
+
+  "pricingPlans": [
+    {
+      "name": "STARTER",
+      "price": "$19",
+      "duration": "per month",
+      "features": [
+        "Competition Analysis Methods",
+        "All Ranked URLs",
+        "International Support System",
+        "Social Media Tracking"
+      ],
+
+      "name_meta": "7",
+      "price_meta": "3",
+      "duration_meta": "9",
+      "features_meta": [
+        "28",
+        "15",
+        "28",
+        "21"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$39",
+      "duration": "per month",
+      "features": [
+        "Competition Analysis Methods",
+        "All Ranked URLs",
+        "International Support System",
+        "Social Media Tracking"
+      ],
+
+      "name_meta": "7",
+      "price_meta": "3",
+      "duration_meta": "9",
+      "features_meta": [
+        "28",
+        "15",
+        "28",
+        "21"
+      ]
+    },
+    {
+      "name": "BUSINESS",
+      "price": "$99",
+      "duration": "per month",
+      "features": [
+        "Competition Analysis Methods",
+        "All Ranked URLs",
+        "International Support System",
+        "Social Media Tracking"
+      ],
+
+      "name_meta": "8",
+      "price_meta": "3",
+      "duration_meta": "9",
+      "features_meta": [
+        "28",
+        "15",
+        "28",
+        "21"
+      ]
+    }
+  ]
+}
